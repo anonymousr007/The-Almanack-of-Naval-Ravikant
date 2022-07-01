@@ -1,22 +1,85 @@
 # The Almanack of Naval Ravikant by Eric Jorgenson
 
-- PART I: WEALTH
-BUILDING WEALTH 29
-Understand How Wealth Is Created 30
-Find and Build Specific Knowledge 40
-Play Long-Term Games with Long-Term People 46
-Take on Accountability 50
-Build or Buy Equity in a Business 53
-Find a Position of Leverage 55
-Get Paid for Your Judgment 67
-Prioritize and Focus 69
-Find Work That Feels Like Play 76
-How to Get Lucky 82
-Be Patient 87
-BUILDING JUDGMENT 93
-Judgment 94
-How to Think Clearly 95
-Shed Your Identity to See Reality 101
-Learn the Skills of Decision-Making 103
-Collect Mental Models 106
-Learn to Love to Read
+### PART I: WEALTH
+
+- BUILDING WEALTH
+  - Understand How Wealth Is Created
+  - Find and Build Specific Knowledge
+  - Play Long-Term Games with Long-Term People
+  - Take on Accountability
+  - Build or Buy Equity in a Business
+  - Find a Position of Leverage
+  - Get Paid for Your Judgment
+  - Prioritize and Focus
+  - Find Work That Feels Like Play
+  - How to Get Lucky
+  - Be Patient
+- BUILDING JUDGMENT
+  - Judgment
+  - How to Think Clearly
+  - Shed Your Identity to See Reality
+  - Learn the Skills of Decision-Making
+  - Collect Mental Models
+  - Learn to Love to Read
+
+### PART II: HAPPINESS
+
+- LEARNING HAPPINESS
+  - Happiness Is Learned
+  - Happiness Is a Choice
+  - Happiness Requires Presence
+  - Happiness Requires Peace
+  - Every Desire Is a Chosen Unhappiness
+  - Success Does Not Earn Happiness
+  - Envy Is the Enemy of Happiness
+  - Happiness Is Built by Habits
+  - Find Happiness in Acceptance
+- SAVING YOURSELF
+  - Choosing to Be Yourself
+  - Choosing to Care for Yourself
+  - Meditation + Mental Strength
+  - Choosing to Build Yourself
+  - Choosing to Grow Yourself
+  - Choosing to Free Yourself
+- PHILOSOPHY
+  - The Meanings of Life
+  - Live by Your Values
+  - Rational Buddhism
+  - The Present Is All We Have
+
+# BONUS
+
+- NAVAL’S RECOMMENDED READING
+  - Books
+  - Other Recommendations
+- NAVAL’S WRITING
+- NEXT ON NAVAL
+- APPRECIATION
+- SOURCES
+- ABOUT THE AUTHOR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
